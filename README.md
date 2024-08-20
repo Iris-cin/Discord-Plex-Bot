@@ -9,6 +9,7 @@ Avant d'exécuter le bot, assurez-vous de :
 1. **Obtenir un Token Discord** : Créez un bot sur le [portail des développeurs Discord](https://discord.com/developers/applications) et récupérez le token de votre bot.
 2. **Obtenir un Token Plex** : Trouvez un token d'accès pour votre serveur Plex en suivant [ce guide](https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/).
 3. **Configurer l'URL du Serveur Plex** : Définissez l'adresse de votre serveur Plex, par exemple `http://127.0.0.1:32400`.
+   Tout ces éléments se trouve dans le fichier `.env`
 
 ## Commandes
 
