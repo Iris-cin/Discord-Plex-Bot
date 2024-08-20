@@ -55,4 +55,4 @@ Les contributions sont les bienvenues ! Si vous avez des suggestions ou souhaite
 
 ## Licence
 
-Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. Consultez le fichier [LICENCE](LICENCE) pour plus de détails.
