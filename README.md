@@ -90,6 +90,6 @@ module.exports = {
 
 ```
 
-## `!plex : Affiche les films et séries de la bibliothèque Plex.
-!status : Vérifie l'état du serveur Plex.
-!refresh : Force le rafraîchissement des bibliothèques Plex.`
+## `!plex : Affiche les films et séries de la bibliothèque Plex.`
+`!status : Vérifie l'état du serveur Plex.`
+`!refresh : Force le rafraîchissement des bibliothèques Plex.`
