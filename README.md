@@ -31,6 +31,15 @@ Avant d'exécuter le bot, assurez-vous de :
 - Si le serveur est accessible, un message de confirmation est envoyé.
 - En cas d'erreur (par exemple, si le serveur est hors ligne), un message d'erreur est fourni.
 
+  ### `!findmovie`
+
+**Description** : Cherche un/des nom(s) de film/série sur votre serveur Plex.
+
+**Détails** :
+- Le bot envoie une requête pour vérifier les films/séries.
+- Si le serveur renvoie une réponse positive, le bot envoie via un embed le/les résultat(s) trouvé(s).
+- En cas d'erreur (par exemple, si le serveur est hors ligne), un message d'erreur est fourni.
+
 ### `!refresh`
 
 **Description** : Force Plex à actualiser ses bibliothèques pour inclure tout nouveau contenu ajouté (films, séries, etc.).
@@ -48,6 +57,7 @@ Avant d'exécuter le bot, assurez-vous de :
    - Tapez `!plex` dans un canal Discord où le bot est actif pour afficher les films et les séries de votre bibliothèque Plex.
    - Tapez `!status` pour vérifier l'état de votre serveur Plex.
    - Tapez `!refresh` pour forcer le rafraîchissement des bibliothèques Plex.
+   - Tapez `!findmovie` pour chercher des films/séries dans vos bibliothèques Plex.
 
 ## Contribuer
 
